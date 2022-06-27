@@ -1,0 +1,20 @@
+********** [Link Relevante de passo a passo] (https://acervolima.com/trabalhando-no-git-bash/)
+
+Clonagem de repositorio:
+git clone (colar link);
+
+Entrar no repositorio pelo git:
+cd (nome do repositório) - tab p/ completar nome
+
+Verificar situação atual:
+git status
+
+Para adicionar arquivos para o controle de versão local:
+git add *
+
+Após efetuar alterações no repositório:
+git commit -m "(comentário descrevendo a atividade)"
+
+Para jogar de volta pro GitHub:
+git push origin main/master
+
